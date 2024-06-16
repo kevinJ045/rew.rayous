@@ -1,0 +1,10 @@
+manifest:
+  package: rew.rayous
+  private: false
+exec:
+  entry: main.coffee
+assets:
+  icon: assets/icon.png
+  folder: ./assets
+install:
+  requirements: []

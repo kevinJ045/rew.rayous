@@ -1,0 +1,15 @@
+{
+  "name": "rew.rayous",
+  "version": "1.0.0",
+  "description": "Rayous bindings for rew",
+  "main": "index.js",
+  "scripts": {
+    "test": "rew ./test.coffee"
+  },
+  "keywords": ["Rayous", "Web", "Server", "UI", "Rew", "Library"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rayous": "^2.8.2"
+  }
+}
