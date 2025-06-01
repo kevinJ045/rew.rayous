@@ -1,6 +1,7 @@
 manifest:
   package: rew.rayous
   private: false
+  readme: "README.md"
 exec:
   entry: main.coffee
 assets:
